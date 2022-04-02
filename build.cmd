@@ -1,0 +1,1 @@
+cargo +nightly build --target thumbv7m-none-eabi --release
